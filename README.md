@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Mohamed-Sa1em/Mohamed-Sa1em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student at KCL looking for internships. 
 
-Here are some ideas to get you started:
+Right now, I'm just messing around with code, building things from scratch, and exploring different areas because, honestly, I still don't know exactly what I want to do yet. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current tech stack is mostly Python, C++, and SQL, but I'm mainly focused on figuring out what clicks. 
+
+If you want to see the daily grind, I document the chaos and what I'm building over at [@filmsbymohamed].
+
+
+**Fun Facts:**
+* We go gym, 120 bench
+* Want to get a parrtor
+* **Hobbies:** gym, video editing, and trying not to break my code
