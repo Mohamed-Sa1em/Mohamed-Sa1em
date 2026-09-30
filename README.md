@@ -10,5 +10,4 @@ My current tech stack is mostly Python, C++, and SQL, but I'm mainly focused on 
 
 **Fun Facts:**
 * We go gym, 120 bench
-* Want to get a parrtor
 * **Hobbies:** gym, video editing, and trying not to break my code
