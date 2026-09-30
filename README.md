@@ -6,7 +6,6 @@ Right now, I'm just messing around with code, building things from scratch, and 
 
 My current tech stack is mostly Python, C++, and SQL, but I'm mainly focused on figuring out what clicks. 
 
-If you want to see the daily grind, I document the chaos and what I'm building over at [@filmsbymohamed].
 
 
 **Fun Facts:**
